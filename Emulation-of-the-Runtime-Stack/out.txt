@@ -1,0 +1,11 @@
+-----------------------------------------------------------
+The total number of function calls so far = 5
+The maximum stack size so far = 5
+
+The contents of the runtime stack will be displayed from top to bottom: 
+
+ARgcd x = 12 y = 12 t1 = 0 returnVal = 12
+ARgcd x = 12 y = 24 t1 = 0 returnVal = 0
+ARgcd x = 12 y = 36 t1 = 0 returnVal = 0
+ARgcd x = 48 y = 36 t1 = 0 returnVal = 0
+ARgcd x = 84 y = 36 t1 = 0 returnVal = 0
